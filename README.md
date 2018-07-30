@@ -1,7 +1,7 @@
 # liri-node-app
 A node environment-based personal assistant.
 
-Liri commands
+## Liri commands
 
 ### Liri spotify
 
