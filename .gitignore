@@ -1,0 +1,4 @@
+#Git ignore these things I hope...
+
+.DS_Store/
+node_modules/
